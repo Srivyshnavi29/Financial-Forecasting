@@ -42,9 +42,6 @@ This project analyzes transaction-level data and forecasts monthly spending usin
 - **Jupyter Notebook**  
 - **Power BI**  
 - **Git & GitHub**
- 
-## OUTPUTS: 
-  - spending_forecast_dashboard.png
 
 ##  Author
 
