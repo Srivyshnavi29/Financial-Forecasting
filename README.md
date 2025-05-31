@@ -35,6 +35,10 @@ This project analyzes transaction-level data and forecasts monthly spending usin
    ```
    python forecast.py
    ```
+##  Output
+![Forcasting](output1.png)
+![Forcasting](output2.png)
+![Spending Forecast](spending_forecast_dashboard.png)
 
 ##  Technologies Used
 
