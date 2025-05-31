@@ -1,0 +1,13 @@
+# Ignore Power BI files and large CSVs (optional)
+*.pbix
+*.png
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+git rm --cached transactions_data.csv
+echo "transactions_data.csv" >> .gitignore
+
