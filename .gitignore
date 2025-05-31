@@ -1,6 +1,5 @@
-# Ignore Power BI files and large CSVs (optional)
+# Ignore Power BI files and large CSVs 
 *.pbix
-*.png
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
